@@ -1,0 +1,6 @@
+{
+  "name": "BioSeq - DNA Sequence Bioactivity & ML Analytics Workbench",
+  "description": "Interactive DNA sequence bioactivity visualization, comparative nucleotide analytics, machine learning classification, and automated genomics report generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
